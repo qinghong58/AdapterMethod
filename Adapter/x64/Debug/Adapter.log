@@ -1,0 +1,8 @@
+﻿  MainMenu.cpp
+C:\Users\admin\source\repos\Adapter\Adapter\MainMenu.cpp(91,55): warning C4804: “>”: 在操作中使用类型“bool”不安全
+C:\Users\admin\source\repos\Adapter\Adapter\MainMenu.cpp(131,6): warning C4804: “>”: 在操作中使用类型“bool”不安全
+C:\Users\admin\source\repos\Adapter\Adapter\MainMenu.cpp(140): warning C4715: “AmericanAdapterTypeChooseFunction”: 不是所有的控件路径都返回值
+C:\Users\admin\source\repos\Adapter\Adapter\NationalApplianceSocketAdapter.h(37): warning C4715: “AmericanAdpater::AmericanInput”: 不是所有的控件路径都返回值
+C:\Users\admin\source\repos\Adapter\Adapter\NationalApplianceSocketAdapter.h(69): warning C4715: “GermanyAdapter::GermanyInput”: 不是所有的控件路径都返回值
+C:\Users\admin\source\repos\Adapter\Adapter\NationalApplianceSocketAdapter.h(100): warning C4715: “ChineseAdapter::ChineseInput”: 不是所有的控件路径都返回值
+  Adapter.vcxproj -> C:\Users\admin\source\repos\Adapter\x64\Debug\Adapter.exe
